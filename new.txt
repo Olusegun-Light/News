@@ -1,0 +1,1 @@
+const url = "https://us8.api.mailchimp.com/3.0/lists/c67d245aff";
